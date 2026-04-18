@@ -10,7 +10,7 @@ Welcome to our research team focusing on quantum computing, quantum algorithms, 
 
 - **Chinese Name**: 合肥综合性国家科学中心人工智能研究院 · 量子人工智能团队
 - **English Name**: Institute of Artificial Intelligence, Hefei Comprehensive National Science Center · Quantum AI Group
-- **Website**: [iai.ustc.edu.cn](https://iai.ustc.edu.cn)
+- **Website**: [https://iai.ustc.edu.cn](https://iai.ustc.edu.cn)
 
 ## 🚀 Projects
 
