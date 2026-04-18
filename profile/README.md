@@ -21,6 +21,7 @@ Welcome to our research team focusing on quantum computing, quantum algorithms, 
 | Project | Description |
 |---------|-------------|
 | [QRAM-Simulator](https://github.com/IAI-USTC-Quantum/QRAM-Simulator) | Quantum Random Access Memory simulator for quantum data storage and retrieval research |
+| [QPanda-lite](https://github.com/Agony5757/QPanda-lite) | A python-native version for pyqpanda. Simple, easy, and transparent. |
 
 ## 👥 Team Members
 
