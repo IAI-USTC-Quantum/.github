@@ -21,8 +21,8 @@ Welcome to our research team focusing on quantum computing, quantum algorithms, 
 | Project | Description |
 |---------|-------------|
 | [QRAM-Simulator](https://github.com/IAI-USTC-Quantum/QRAM-Simulator) | Quantum Random Access Memory simulator for quantum data storage and retrieval research |
-| [QPanda-lite](https://github.com/Agony5757/QPanda-lite) | A python-native version for pyqpanda. Simple, easy, and transparent. |
-| [quantum-computing-skill](https://github.com/IAI-USTC-Quantum/quantum-computing-skill) | Claude Code skill for quantum programming with QPanda-lite |
+| [UnifiedQuantum](https://github.com/IAI-USTC-Quantum/UnifiedQuantum) | A unified, non-commercial quantum computing aggregation framework |
+| [quantum-computing-skill](https://github.com/IAI-USTC-Quantum/quantum-computing-skill) | Claude Code skill for quantum programming with UnifiedQuantum |
 
 ## 👥 Team Members
 
