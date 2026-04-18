@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="banner.png" alt="IAI-USTC Quantum Banner" width="100%">
+</div>
+
 # IAI-USTC Quantum
 
 [![Quantum Computing | AI](https://img.shields.io/badge/Quantum_Computing-AI-58a6ff?style=flat-square)](https://github.com/IAI-USTC-Quantum) [![GitHub Page](https://img.shields.io/badge/Page-iai--ustc--quantum.github.io-4D6AE4?style=flat-square)](https://iai-ustc-quantum.github.io)
