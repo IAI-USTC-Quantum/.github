@@ -21,14 +21,10 @@ Welcome to our research team focusing on quantum computing, quantum algorithms, 
 | Member | GitHub |
 |--------|--------|
 | Agony5757 | [@Agony5757](https://github.com/Agony5757) |
-| YunJ1e | [@YunJ1e](https://github.com/YunJ1e) |
 | TMYTiMidlY | [@TMYTiMidlY](https://github.com/TMYTiMidlY) |
-| didaozi | [@didaozi](https://github.com/didaozi) |
+| YunJ1e | [@YunJ1e](https://github.com/YunJ1e) |
 | RichardSun2019 | [@RichardSun2019](https://github.com/RichardSun2019) |
 | yowakkojay | [@yowakkojay](https://github.com/yowakkojay) |
-| automatic-code-ztr | [@automatic-code-ztr](https://github.com/automatic-code-ztr) |
-| Chaos-Paradox | [@Chaos-Paradox](https://github.com/Chaos-Paradox) |
-| sbzhao | [@sbzhao](https://github.com/sbzhao) |
 
 ## 📬 Contact
 
