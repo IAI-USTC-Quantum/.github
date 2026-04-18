@@ -1,5 +1,7 @@
 # IAI-USTC Quantum
 
+[![Quantum Computing | AI](https://img.shields.io/badge/Quantum_Computing-AI-58a6ff?style=flat-square)](https://github.com/IAI-USTC-Quantum) [![GitHub Page](https://img.shields.io/badge/Page-iai--ustc--quantum.github.io-4D6AE4?style=flat-square)](https://iai-ustc-quantum.github.io)
+
 **Quantum AI Group** from **Institute of Artificial Intelligence, Hefei Comprehensive National Science Center**.
 
 Welcome to our research team focusing on quantum computing, quantum algorithms, and quantum AI.
