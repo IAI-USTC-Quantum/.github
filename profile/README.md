@@ -22,7 +22,7 @@ Welcome to our research team focusing on quantum computing, quantum algorithms, 
 |---------|-------------|
 | [QRAM-Simulator](https://github.com/IAI-USTC-Quantum/QRAM-Simulator) | Quantum Random Access Memory simulator for quantum data storage and retrieval research |
 | [UnifiedQuantum](https://github.com/IAI-USTC-Quantum/UnifiedQuantum) | A unified, non-commercial quantum computing aggregation framework |
-| [quantum-computing-skill](https://github.com/IAI-USTC-Quantum/quantum-computing-skill) | Coding agent skill for quantum programming with UnifiedQuantum |
+| [quantum-computing.skill](https://github.com/IAI-USTC-Quantum/quantum-computing.skill) | Coding agent skill for quantum programming with UnifiedQuantum |
 | [QuantumQA](https://github.com/IAI-USTC-Quantum/QuantumQA) | A large-scale, physics-consistent dataset and verification-aware reinforcement learning framework for quantum mechanics |
 
 ## 👥 Team Members
