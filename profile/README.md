@@ -24,6 +24,7 @@ Welcome to our research team focusing on quantum computing, quantum algorithms, 
 | [UnifiedQuantum](https://github.com/IAI-USTC-Quantum/UnifiedQuantum) | A unified, non-commercial quantum computing aggregation framework |
 | [quantum-computing.skill](https://github.com/IAI-USTC-Quantum/quantum-computing.skill) | Coding agent skill for quantum programming with UnifiedQuantum |
 | [QuantumQA](https://github.com/IAI-USTC-Quantum/QuantumQA) | A large-scale, physics-consistent dataset and verification-aware reinforcement learning framework for quantum mechanics |
+| [Quantum-Resource-Estimator](https://github.com/IAI-USTC-Quantum/Quantum-Resource-Estimator) | Quantum resource estimation tools for quantum algorithm analysis |
 
 ## 👥 Team Members
 
